@@ -35,7 +35,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
+            让我们看一下修改这句话会怎么样捏.
           </p>
         </a>
 
